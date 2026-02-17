@@ -1,2 +1,11 @@
-# physics-simulations-vpython
-Repository dedicated to simulating physical systems using VPython. The focus is on transforming mathematical models and physical laws into interactive 3D visualizations, covering topics such as classical mechanics, oscillators, and particle dynamics through numerical methods.
+#  Computational Physics with VPython
+
+This repository contains a collection of 3D physical simulations developed with **VPython**. The goal is to bridge the gap between theoretical physics and computational modeling.
+
+##  Key Features
+*   **3D Visualizations**: Real-time rendering of physical systems.
+*   **Physical Models**: Simulations including planetary motion, damped oscillations, and rigid body dynamics.
+
+##  Technologies
+*   **Python**: Core programming language.
+*   **VPython (GlowScript)**: For 3D graphics and vector animations.
